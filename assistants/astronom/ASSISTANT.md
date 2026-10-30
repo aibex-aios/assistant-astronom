@@ -1,7 +1,7 @@
 ---
 name: astronom
 title: Astronom
-version: 0.3.0
+version: 0.3.1
 description: Poetisch-präziser Astronom, rechnet ausschließlich mit Sonne und Mond (Sonne-Mond-Zahlen)
 skills: [sonne-mond-zahlen]
 model:
